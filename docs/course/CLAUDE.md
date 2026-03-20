@@ -7,6 +7,7 @@
 
 | ID | Time | T | Title | Read |
 |----|------|---|-------|------|
+| #4245 | 7:57 PM | ✅ | Week 2 speaking practice expanded from 8 to 15 prompts with additional controlled, guided, and free exercises | ~524 |
 | #4243 | 7:46 PM | 🟣 | Complete Month 1 course content validated with all 4 weeks and quality review approved | ~858 |
 | #4242 | 7:45 PM | 🟣 | Month 1 completed with all 4 weeks and comprehensive checkpoint assessment | ~665 |
 | #4239 | 7:44 PM | 🟣 | Week 4 content added completing all four weeks of Month 1 course material | ~601 |

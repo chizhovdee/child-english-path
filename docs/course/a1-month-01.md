@@ -48,17 +48,24 @@ Read each prompt aloud. You can record yourself on your phone.
 - [ ] Say: "Hi, I'm [your name]."
 - [ ] Say: "I'm [your age] years old."
 - [ ] Say: "I'm from [your city]."
+- [ ] Say: "I'm a student. I'm in [your grade]."
+- [ ] Say: "Nice to meet you!"
 
 **Guided** — answer these questions in a full sentence:
 
 - [ ] What is your name?
 - [ ] How old are you?
 - [ ] Where are you from?
+- [ ] What grade are you in?
+- [ ] Are you new at your school, or have you been there for a long time?
+- [ ] What is your city like? Is it big or small?
 
 **Free** — speak freely:
 
-- [ ] Introduce yourself to a new classmate — say 3-4 sentences.
+- [ ] Introduce yourself to a new classmate — say 4-5 sentences.
 - [ ] Tell about yourself for 30 seconds. Try not to stop!
+- [ ] Imagine you join a new Discord server. Record a voice intro about yourself.
+- [ ] You are at a summer camp. Introduce yourself to the group — name, age, city, and one fun fact about you.
 
 ### Block 4 — Practice Exercises
 
@@ -174,6 +181,8 @@ Read each prompt aloud. You can record yourself on your phone.
 
 - [ ] Say: "I wake up at [your time]."
 - [ ] Say: "I go to school at [your time]."
+- [ ] Say: "I have lunch at [your time]."
+- [ ] Say: "I come home at [your time]."
 - [ ] Say: "I go to bed at [your time]."
 
 **Guided** — answer these questions in a full sentence:
@@ -181,11 +190,16 @@ Read each prompt aloud. You can record yourself on your phone.
 - [ ] What time do you wake up?
 - [ ] What do you do after school?
 - [ ] What do you do before bed?
+- [ ] Do you eat breakfast? What do you eat?
+- [ ] What is the first thing you do when you come home?
+- [ ] What do you do on Saturday? Is it different from a school day?
 
 **Free** — speak freely:
 
 - [ ] Describe your morning — from waking up to leaving for school.
 - [ ] Tell about your whole day from start to finish. Try to say 5-6 sentences!
+- [ ] Describe your perfect day — what time do you wake up, what do you do?
+- [ ] Compare your school day and your weekend. What is the same? What is different?
 
 ### Block 4 — Practice Exercises
 
@@ -305,17 +319,25 @@ Read each prompt aloud. You can record yourself on your phone.
 - [ ] Say: "I like [a food you like]."
 - [ ] Say: "I love [a game you love]."
 - [ ] Say: "I don't like [a thing you don't like]."
+- [ ] Say: "My favourite [thing] is [name]."
+- [ ] Say: "I hate [something you hate]."
 
 **Guided** — answer these questions in a full sentence:
 
 - [ ] What is your favourite food?
 - [ ] What games do you play?
 - [ ] What don't you like?
+- [ ] What music do you listen to?
+- [ ] What is your favourite school subject? Why?
+- [ ] What is your favourite YouTube channel?
+- [ ] Do you like sports? Which ones?
 
 **Free** — speak freely:
 
 - [ ] Tell about 5 things you like and 3 things you don't like.
 - [ ] What is your perfect day? What do you do?
+- [ ] You are making a "My Favourites" video for YouTube. Talk about your favourite food, game, music, and movie.
+- [ ] Your friend asks: "What should I watch / play / eat?" Recommend something and explain why you like it.
 
 ### Block 4 — Practice Exercises
 
@@ -456,17 +478,25 @@ Read each prompt aloud. You can record yourself on your phone.
 - [ ] Say: "My best friend is [name]."
 - [ ] Say: "He/She is [description — tall, funny, kind, smart...]."
 - [ ] Say: "I have a [family member — brother, sister, mum, dad]."
+- [ ] Say: "His/Her name is [name]."
+- [ ] Say: "We go to the same school."
 
 **Guided** — answer these questions in a full sentence:
 
 - [ ] Who is your best friend? Tell about them.
 - [ ] How many people are in your family?
 - [ ] What do you and your friend do together?
+- [ ] What does your best friend look like?
+- [ ] What is your friend's favourite game or hobby?
+- [ ] Do you have a brother or sister? What are they like?
+- [ ] Who is the funniest person in your family? Why?
 
 **Free** — speak freely:
 
-- [ ] Describe your best friend — what they look like, their personality, what you do together.
+- [ ] Describe your best friend — what they look like, their personality, what you do together. Try 5-6 sentences.
 - [ ] Tell about your family — who is in it, what they are like.
+- [ ] Imagine your friend is not here today. Tell a new classmate about them: "Let me tell you about my friend..."
+- [ ] Describe someone in your family without saying their name. Can someone guess who it is?
 
 ### Block 4 — Practice Exercises
 
